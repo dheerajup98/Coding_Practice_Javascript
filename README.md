@@ -1,1 +1,1 @@
-Coding Practice challenges with javascript
+Coding Practice challenges with javascript 🚀
